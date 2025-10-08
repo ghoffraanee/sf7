@@ -96,11 +96,13 @@
         }
     },
     "require-dev": {
+        "dbrekelmans/bdi": "*",
         "phpunit/phpunit": "*",
         "symfony/browser-kit": "7.0.*",
         "symfony/css-selector": "7.0.*",
         "symfony/debug-bundle": "7.0.*",
         "symfony/maker-bundle": "^1.0",
+        "symfony/panther": "*",
         "symfony/stopwatch": "7.0.*",
         "symfony/web-profiler-bundle": "7.0.*"
     }
